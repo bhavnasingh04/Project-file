@@ -1,3 +1,4 @@
 # Project-file
 My new project
-author - bhavan singh
+<br>
+Author - <b>Bhavan Singh</b>
